@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm a professional front-end and full-stack developer with more than 7 years' experence.
-- 🔭 I’m currently working on [Univer](https://github.com/dream-num/univer), we are trying to build an advanced open-source spreadsheet sdk to help our clients build powerful online sheet.
 - 😄 My tech stack: Typescript, React, Nextjs, Nodejs, Golang.
 - 📫 How to reach me: zhangwei.w@icloud.com
