@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a professional front-end and full-stack developer with more than 7 years' experence.
 - 😄 My tech stack: Typescript, React, Nextjs, Nodejs, Golang.
-- 📫 How to reach me: zhangwei.zw1994@gmail.com
+- 📫 How to reach me: zhangwei.akl@gmail.com
