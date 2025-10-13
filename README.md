@@ -6,7 +6,7 @@ At the same time, I’m deeply passionate about **startup agility** — I enjoy 
 
 ## 💻 Technical Expertise
 
-- **Core stack:** TypeScript, React, **Next.js**, Node.js, Golang  
+- **Core stack:** TypeScript, React, **Next.js**, Node.js, Golang, python
 - **Specialties:** Sync engines, canvas rendering, performance optimization, real-time collaboration, scalable architecture  
 - **Infrastructure & tools:** Docker, Redis, PostgreSQL, AWS / Cloudflare / serverless, CI/CD pipelines  
 
