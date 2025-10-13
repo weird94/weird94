@@ -17,10 +17,6 @@
   - Adopted by **10+ enterprise clients**, including **2 Fortune 500 companies** and multiple notable firms in China  
   - Involved in real-time sync engine, document model, canvas & rendering layer, and performance tuning  
 
-- Other repos / projects:
-  - **crx-rpc** — lightweight RPC framework for Chrome extensions
-  - **react-typed-recyclelist** — a high-performance virtualized list with DOM recycling
-
 ## 🚀 What Drives Me
 
 - Crafting developer tools / productivity software to make creators more effective  
