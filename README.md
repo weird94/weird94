@@ -6,8 +6,8 @@
 
 ## 💻 Technical Expertise
 
-- **Core stack:** TypeScript, React, **Next.js**, Node.js, Golang, python
-- **Specialties:** Sync engines, canvas rendering, performance optimization, real-time collaboration, scalable architecture  
+- **Core stack:** TypeScript, React, **Next.js**, Node.js, Golang, Python
+- **Specialties:** React Application & SSR, Scalable architecture, Sync engines, Canvas rendering, Performance optimization, Real-time collaboration  
 - **Infrastructure & tools:** Docker, Redis, PostgreSQL, AWS / Cloudflare / serverless, CI/CD pipelines  
 
 ## 🧩 Open-Source & Key Contributions
