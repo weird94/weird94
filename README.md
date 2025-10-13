@@ -1,20 +1,35 @@
 ## Hi there 👋
 
-<!--
-**weird94/weird94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **professional full-stack developer** with over **7 years of experience** building scalable, high-performance web and collaboration applications.  
+I’ve worked in **large, process-driven environments** like **ByteDance** and **Alibaba**, where I developed strong skills in collaboration, reliability, and system-level engineering.  
+At the same time, I’m deeply passionate about **startup agility** — I enjoy the fast pace of taking products **from 0 → 1**, iterating quickly, and scaling ideas into robust, real-world products.
 
-Here are some ideas to get you started:
+## 💻 Technical Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Core stack:** TypeScript, React, **Next.js**, Node.js, Golang  
+- **Specialties:** Sync engines, canvas rendering, performance optimization, real-time collaboration, scalable architecture  
+- **Infrastructure & tools:** Docker, Redis, PostgreSQL, AWS / Cloudflare / serverless, CI/CD pipelines  
 
-- 🔭 I'm a professional front-end and full-stack developer with more than 7 years' experence.
-- 😄 My tech stack: Typescript, React, Nextjs, Nodejs, Golang.
-- 📫 How to reach me: zhangwei.akl@gmail.com
+## 🧩 Open-Source & Key Contributions
+
+- **Major contributor** to **[Univer](https://github.com/dream-num/univer)** — open-source office suite / spreadsheet / collaboration framework  
+  - Widely used open source spreadsheet sdk (11k+ stars)  
+  - Adopted by **10+ enterprise clients**, including **2 Fortune 500 companies** and multiple notable firms in China  
+  - Involved in real-time sync engine, document model, canvas & rendering layer, and performance tuning  
+
+- Other repos / projects:
+  - **crx-rpc** — lightweight RPC framework for Chrome extensions
+  - **react-typed-recyclelist** — a high-performance virtualized list with DOM recycling
+
+## 🚀 What Drives Me
+
+- Crafting developer tools / productivity software to make creators more effective  
+- Merging elegant architecture and solid UX to deliver seamless, robust products  
+- Joining small, passionate teams and turning ambitious ideas into real impact  
+
+## 📫 Connect With Me
+
+- **Email:** [zhangwei.akl@gmail.com](mailto:zhangwei.akl@gmail.com)  
+- **GitHub:** [github.com/weird94](https://github.com/weird94)
+- **LinkedIn:** [Wei Zhang](linkedin.com/in/wei-zhang-8867542a4)
+
