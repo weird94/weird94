@@ -1,31 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-- I’m a **professional full-stack developer** with over **8 years of experience** building scalable, high-performance web and collaboration applications.  
-- I’ve worked in **large, process-driven environments** like **ByteDance** and **Alibaba**, where I developed strong skills in collaboration, reliability, and system-level engineering.  
-- At the same time, I’m deeply passionate about **startup agility** — I enjoy the fast pace of taking products **from 0 → 1**, iterating quickly, and scaling ideas into robust, real-world products.
+# Hi, I'm Wei Zhang 👋
 
-## 💻 Technical Expertise
+[![GitHub followers](https://img.shields.io/github/followers/weird94?label=Followers&logo=github)](https://github.com/weird94)
+[![Profile views](https://komarev.com/ghpvc/?username=weird94&color=blueviolet)](https://github.com/weird94)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wei%20Zhang-blue?logo=linkedin)](https://linkedin.com/in/wei-zhang-8867542a4)
 
-- **Core stack:** TypeScript, React, **Next.js**, Node.js, Golang, Python
-- **Specialties:** React Application & SSR, Scalable architecture, Sync engines, Canvas rendering, Performance optimization, Real-time collaboration  
-- **Infrastructure & tools:** Docker, Redis, PostgreSQL, AWS / Cloudflare / serverless, CI/CD pipelines  
+**Full-stack engineer (8+ yrs) focused on shipping reliable, high-performance web products.**
 
-## 🧩 Open-Source & Key Contributions
+</div>
 
-- **Core Developer** of **[Univer](https://github.com/dream-num/univer)** — open-source office suite / spreadsheet / collaboration framework  
-  - Widely used open source spreadsheet sdk (11k+ stars)  
-  - Adopted by **10+ enterprise clients**, including **2 Fortune 500 companies** and multiple notable firms in China  
-  - Involved in real-time sync engine, document model, canvas & rendering layer, and performance tuning  
+## 🔧 Core Skills
+- **TypeScript · React · Next.js · Node.js · Golang · Python**
+- Real-time collaboration, SSR, canvas rendering, performance optimization
+- Architecture for scale: Docker · Redis · PostgreSQL · Cloudflare/AWS · CI/CD
 
-## 🚀 What Drives Me
+## 🌟 Highlights
+- Core developer of [Univer](https://github.com/dream-num/univer) (11k+⭐) — open-source office suite/spreadsheet SDK
+  - Contributions: real-time sync engine, document model, canvas rendering, perf tuning
+- Built and operated systems at **ByteDance** and **Alibaba**; comfortable with both enterprise rigor and 0→1 startup speed
 
-- Crafting developer tools / productivity software to make creators more effective  
-- Merging elegant architecture and solid UX to deliver seamless, robust products  
-- Joining small, passionate teams and turning ambitious ideas into real impact  
+## 📚 Featured Work
+- Univer spreadsheet SDK: adopted by 10+ enterprises (including Fortune 500)
+- Productivity & collaboration tooling, developer experience improvements, scalable web infra
 
-## 📫 Connect With Me
+## 🧭 What I'm Looking For
+- Small, passionate teams building developer tools, productivity software, or collaboration platforms
+- Roles that value pragmatic architecture, thoughtful UX, and fast iteration
 
-- **Email:** [zhangwei.akl@gmail.com](mailto:zhangwei.akl@gmail.com)  
-- **GitHub:** [github.com/weird94](https://github.com/weird94)
-- **LinkedIn:** [Wei Zhang](linkedin.com/in/wei-zhang-8867542a4)
+## 📫 Contact
+- **Email:** [zhangwei.akl@gmail.com](mailto:zhangwei.akl@gmail.com)
+- **GitHub:** [@weird94](https://github.com/weird94)
+- **LinkedIn:** [Wei Zhang](https://linkedin.com/in/wei-zhang-8867542a4)
+
+---
+
+<details>
+<summary>GitHub Stats</summary>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weird94&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weird94&layout=compact&theme=transparent)
+
+</div>
+
+</details>
 
