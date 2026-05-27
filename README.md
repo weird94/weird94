@@ -13,7 +13,7 @@
 ## 🧩 Open-Source & Key Contributions
 
 - **Core Developer** of **[Univer](https://github.com/dream-num/univer)** — open-source office suite / spreadsheet / collaboration framework  
-  - Widely used open source spreadsheet sdk (11k+ stars)  
+  - Widely used open source spreadsheet sdk (13k+ stars)  
   - Adopted by **10+ enterprise clients**, including **2 Fortune 500 companies** and multiple notable firms in China  
   - Involved in real-time sync engine, document model, canvas & rendering layer, and performance tuning  
 
