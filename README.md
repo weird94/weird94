@@ -3,6 +3,7 @@
 - I’m a **professional full-stack developer** with over **8 years of experience** building scalable, high-performance web and collaboration applications.  
 - I’ve worked in **large, process-driven environments** like **ByteDance** and **Alibaba**, where I developed strong skills in collaboration, reliability, and system-level engineering.  
 - At the same time, I’m deeply passionate about **startup agility** — I enjoy the fast pace of taking products **from 0 → 1**, iterating quickly, and scaling ideas into robust, real-world products.
+- I'm currently **open to new opportunities** — **remote** or **relocation** both welcome.
 
 ## 💻 Technical Expertise
 
