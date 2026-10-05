@@ -28,5 +28,4 @@
 
 - **Email:** [zhangwei.akl@gmail.com](mailto:zhangwei.akl@gmail.com)  
 - **GitHub:** [github.com/weird94](https://github.com/weird94)
-- **LinkedIn:** [Wei Zhang](linkedin.com/in/wei-zhang-8867542a4)
 
